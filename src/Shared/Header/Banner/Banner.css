@@ -1,0 +1,13 @@
+
+#intro {
+  background-image: url("../../../images/bannerbackground.png");
+  height: 70vh;
+  background-position: center;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+  #intro {
+    margin-top: -58.59px;
+  }
+}
